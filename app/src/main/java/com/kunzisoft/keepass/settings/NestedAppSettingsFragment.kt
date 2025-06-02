@@ -37,7 +37,6 @@ import androidx.preference.Preference
 import androidx.preference.TwoStatePreference
 import com.kunzisoft.keepass.BuildConfig
 import com.kunzisoft.keepass.R
-import com.kunzisoft.keepass.activities.dialogs.ProFeatureDialogFragment
 import com.kunzisoft.keepass.activities.dialogs.UnavailableFeatureDialogFragment
 import com.kunzisoft.keepass.activities.stylish.Stylish
 import com.kunzisoft.keepass.app.database.FileDatabaseHistoryAction
@@ -434,17 +433,6 @@ class NestedAppSettingsFragment : NestedSettingsFragment() {
             findPreference<ListPreference>(getString(R.string.setting_style_key))?.setOnPreferenceChangeListener { _, newValue ->
                 var styleEnabled = true
                 val styleIdString = newValue as String
-                if (!activity.isContributingUser()) {
-                    for (themeIdDisabled in BuildConfig.STYLES_DISABLED) {
-                        if (themeIdDisabled == styleIdString) {
-                            styleEnabled = false
-                            ProFeatureDialogFragment().show(
-                                parentFragmentManager,
-                                "pro_feature_dialog"
-                            )
-                        }
-                    }
-                }
                 if (styleEnabled) {
                     Stylish.assignStyle(activity, styleIdString)
                     // Relaunch the current activity to redraw theme
@@ -465,17 +453,6 @@ class NestedAppSettingsFragment : NestedSettingsFragment() {
             findPreference<IconPackListPreference>(getString(R.string.setting_icon_pack_choose_key))?.setOnPreferenceChangeListener { _, newValue ->
                 var iconPackEnabled = true
                 val iconPackId = newValue as String
-                if (!activity.isContributingUser()) {
-                    for (iconPackIdDisabled in BuildConfig.ICON_PACKS_DISABLED) {
-                        if (iconPackIdDisabled == iconPackId) {
-                            iconPackEnabled = false
-                            ProFeatureDialogFragment().show(
-                                parentFragmentManager,
-                                "pro_feature_dialog"
-                            )
-                        }
-                    }
-                }
                 if (iconPackEnabled) {
                     IconPackChooser.setSelectedIconPack(iconPackId)
                 }
