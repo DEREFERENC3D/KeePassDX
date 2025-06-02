@@ -390,7 +390,6 @@
     <string name="other">אחר</string>
     <string name="education_sort_title">מיון פריטים</string>
     <string name="education_sort_summary">בחר כיצד רשומות וקבוצות ממויינות.</string>
-    <string name="html_text_ad_free">לעומת יישומי ניהול סיסמאות אחרים, היישום הזה &lt;strong&gt;נטול פרסומות,&lt;/strong&gt;copylefted libre software&lt;/strong&gt; ולא אוסף מידע פרטי בשרתים שלו, לא משנה באיזו גירסה.</string>
     <string name="enable">הפעל</string>
     <string name="compression_gzip">Gzip</string>
     <string name="enable_auto_save_database_title">שמירה אוטומטית של מסד הנתונים</string>

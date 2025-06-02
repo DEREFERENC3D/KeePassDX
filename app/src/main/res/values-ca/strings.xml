@@ -309,7 +309,6 @@
     <string name="content_description_credentials_information">Informació de credencials</string>
     <string name="content_description_add_item">Afegeix un element</string>
     <string name="education_lock_title">Bloca la base de dades</string>
-    <string name="html_text_feature_generosity">Aquest &lt;strong&gt;estil visual&lt;/strong&gt; és disponible gràcies a la vostra generositat.</string>
     <string name="html_text_dev_feature_upgrade">No us oblideu de mantenir l’aplicació actualitzada instal·lant les versions noves.</string>
     <string name="icon_section_standard">Estàndard</string>
     <string name="show_uuid_title">Mostra l\'UUID</string>
@@ -660,7 +659,6 @@
     <string name="education_unlock_title">Desbloqueja la base de dades</string>
     <string name="education_setup_OTP_summary">Configureu la gestió de contrasenyes d\'un sol ús (HOTP / TOTP) per generar un testimoni sol·licitat per a l\'autenticació de dos factors (2FA).</string>
     <string name="education_field_copy_title">Copia un camp</string>
-    <string name="html_text_donation">Per tal de mantenir la nostra llibertat i estar sempre actius, comptem amb la seva &lt;strong&gt;aportació. &lt;/strong&gt;</string>
     <string name="upload_attachment">Puja %1$s</string>
     <string name="download_finalization">S\'està finalitzant…</string>
     <string name="entropy">Entropia: %1$s bit</string>

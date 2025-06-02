@@ -602,7 +602,6 @@
     <string name="backspace">فراغ للخلف</string>
     <string name="enter">دخول</string>
     <string name="education_sort_summary">اختر كيفية فرز الإدخالات والمجموعات.</string>
-    <string name="html_text_feature_generosity">هذا &lt;strong&gt; النمط المرئي&lt;/strong&gt; متاح بفضل كرمك.</string>
     <string name="info">المعلومات</string>
     <string name="waiting_challenge_response">في انتظار استجابة التحدي…</string>
     <string name="bank_identifier_code">SWIFT / BIC</string>
@@ -678,11 +677,8 @@
     <string name="at_least_one_char">على الأقل حرف واحد من كل منهما</string>
     <string name="html_text_dev_feature_upgrade">تذكر أن تحافظ على تحديث تطبيقك عن طريق تثبيت إصدارات جديدة.</string>
     <string name="download">تثبيت</string>
-    <string name="html_text_ad_free">على عكس العديد من تطبيقات إدارة كلمات المرور ، فإن هذا التطبيق &lt;strong&gt;بدون إعلانات&lt;/strong&gt;، و &lt;strong&gt;برنامج حر متروك الحقوق&lt;/strong&gt; ولا يجمع البيانات الشخصية على خوادمه، بغض النظر عن الإصدار الذي تستخدمه.</string>
     <string name="download_initialization">جارِ التهيئة…</string>
     <string name="download_progression">قيد التقدم: %1$d%%</string>
-    <string name="html_text_buy_pro">بشراء الإصدار الاحترافي، ستتمتع بإمكانية الوصول إلى هذا &lt;strong&gt; النمط المرئي&lt;/strong&gt; وستساعد بشكل خاص في &lt;strong&gt; تنفيذ مشروعات المجتمع. &lt;/strong&gt;</string>
-    <string name="html_text_donation">من أجل الحفاظ على حريتنا ولكي نكون نشيطين دائمًا، فإننا نعتمد على &lt;strong&gt; مساهمتك.&lt;/strong&gt;</string>
     <string name="html_text_dev_feature_encourage">أنت تشجع المطورين على إنشاء &lt;strong&gt; ميزات جديدة&lt;/strong&gt; و &lt;strong&gt; إصلاح الخلل&lt;/strong&gt; وفقًا لملاحظاتك.</string>
     <string name="style_name_forest">غابة</string>
     <string name="style_name_simple">بسيط</string>

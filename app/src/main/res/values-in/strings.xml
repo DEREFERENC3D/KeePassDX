@@ -487,7 +487,6 @@
 \n\"Terlindungi-tulis\" mencegah perubahan tak diinginkan ke basis data.
 \n\"Bisa dimodifikasi\" memungkinkan Anda untuk menambah, menghapus, atau menyunting semua elemen yang Anda inginkan.</string>
     <string name="show_otp_token_summary">Tampilkan token OTP dalam daftar entri</string>
-    <string name="html_text_buy_pro">Dengan membeli versi pro, Anda akan mendapatkan akses ke &lt;strong&gt;gaya visual &lt;/strong&gt; ini dan Anda akan terutama membantu &lt;strong&gt;realisasi proyek komunitas.&lt;/strong&gt;</string>
     <string name="clear_clipboard_notification_summary">Kunci basis data ketika durasi papan klip kedaluwarsa atau notifikasi ditutup setelah Anda mulai menggunakannya</string>
     <string name="allow_copy_password_warning">Peringatan: Papan klip dipakai oleh semua aplikasi. Jika data sensitif disalin, perangkat lunak lain mungkin dapat mendapatkannya.</string>
     <string name="education_lock_summary">Kunci basis data Anda dengan cepat, Anda bisa mengatur aplikasi untuk mengunci sendiri setelah beberapa saat dan ketika layar berubah mati.</string>
@@ -513,9 +512,6 @@
 \n
 \nGunakan metode pengisian formulir yang Anda sukai.</string>
     <string name="education_donation_summary">Bantu meningkatkan stabilitas, keamanan, dan menambahkan lebih banyak fitur.</string>
-    <string name="html_text_ad_free">Tidak seperti banyak aplikasi pengelola kata sandi, ini &lt;strong&gt;bebas iklan&lt;/strong&gt;, &lt;strong&gt;perangkat lunak libre copyleft&lt;/strong&gt;, dan tidak mengumpulkan data pribadi di peladennya, tidak peduli versi apa yang Anda gunakan.</string>
-    <string name="html_text_feature_generosity">&lt;strong&gt;Gaya visual&lt;/strong&gt; ini tersedia berkat kemurahan hati Anda.</string>
-    <string name="html_text_donation">Untuk menjaga kebebasan kami dan untuk kami selalu aktif, kami mengandalkan &lt;strong&gt;kontribusi&lt;/strong&gt; Anda.</string>
     <string name="html_text_dev_feature">Fitur ini &lt;strong&gt;sedang dalam pengembangan&lt;/strong&gt; dan memerlukan &lt;strong&gt;kontribusi&lt;/strong&gt; Anda untuk bisa tersedia segera.</string>
     <string name="show_otp_token_title">Tampilkan Token OTP</string>
     <string name="text_appearance">Teks</string>
